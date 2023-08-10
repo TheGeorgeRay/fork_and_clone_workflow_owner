@@ -6,3 +6,6 @@ Hello World!!!
 
 ## Change in the CodeSpace
 Testing what happens when I try to commit to main. 
+
+## Changes by a contributor
+Testing what happens when I create a pull request to a protected branch.
